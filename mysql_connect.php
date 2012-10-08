@@ -1,5 +1,5 @@
 <?php
-$con = mysql_connect("localhost", "bratmun_sk","canHHe2Wsn4Qj4fE");
+$con = mysql_connect("localhost", "bratmun_sk","");
 if ($con)
 		mysql_select_db("bratmun_sk");
 else
